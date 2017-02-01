@@ -1,0 +1,55 @@
+.tp-caption.large_bold_dosis {
+font-size:58px;
+line-height:60px;
+font-weight:800;
+font-family:"Dosis";
+color:#ffffff;
+text-decoration:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.large_bold_dosis_small {
+font-size:31px;
+line-height:60px;
+font-weight:800;
+font-family:Dosis;
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.large_bold_dosis_big {
+font-size:88px;
+line-height:60px;
+font-weight:800;
+font-family:Dosis;
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.kleurvolleven {
+font-size:56px;
+line-height:20px;
+font-weight:700;
+font-family:Convergence;
+color:rgb(255, 255, 255);
+text-decoration:none;
+text-shadow:rgba(0, 0, 0, 0.498039) 0px 2px 5px;
+margin:0px;
+white-space:nowrap;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(255, 255, 255);
+border-style:none;
+}
+

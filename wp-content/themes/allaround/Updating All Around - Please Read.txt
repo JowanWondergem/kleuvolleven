@@ -1,0 +1,22 @@
+Thank your for using AllAround Wordpress Template!
+
+
+// 14.10.2014
+- Twitter Footer bar fixed
+- Small issues fixed
+- Single product page circle fixed
+
+
+// 18.3.2014
+-WooCommerce 2.1+ supported
+-Fixed issues with the products gallery
+-Added ajax header cart update
+-Small issues fixed
+-AllAround Slider 1.4 update
+-Revolution Slider 4.2.6 update
+
+
+// Previous
+If you're updating your All Around Theme please follow this steps.
+- Upload new files to your All Around Theme Wordpress dir
+- Navigate to Appearance>Theme Options and check your options. New options will appear. Set them up and save the new options.

@@ -1,0 +1,1458 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AllAround Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-03-18 15:56+0100\n"
+"PO-Revision-Date: 2015-06-14 14:57+0100\n"
+"Last-Translator: nenad mihajlovic <dzeriho@gmail.com>\n"
+"Language-Team: dzeriho@gmail.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ./\n"
+"X-Generator: Poedit 1.8.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: nl_NL\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:15
+msgid "Page"
+msgstr "Pagina"
+
+#: ../404.php:18
+msgid "CONGRATULATIONS!"
+msgstr "Gefeliciteerd!"
+
+#: ../404.php:20
+msgid "YOU HAVE UNLOCKED THE ACHIEVEMENT"
+msgstr "Je hebt een doelstelling bereikt."
+
+#: ../404.php:22
+msgid "\"FIND THE 404 PAGE\""
+msgstr "404 - Excuses, deze pagina is niet gevonden. "
+
+#: ../404.php:26
+msgid "RETURN TO THE"
+msgstr "Terug naar"
+
+#: ../404.php:26
+msgid "HOME PAGE"
+msgstr "Home"
+
+#: ../404.php:28
+msgid "TO CLAIM YOUR PRIZE"
+msgstr "Om uw prijs op te halen"
+
+#: ../archive.php:20 ../archive.php:22 ../archive.php:24 ../archive.php:26
+#: ../archive.php:28
+msgid " posts found"
+msgstr "gevonden berichten"
+
+#: ../archive.php:30 ../includes/wp-functions.php:730
+#: ../includes/wp-functions.php:733 ../includes/wp-functions.php:736
+#: ../includes/wp-functions.php:739
+msgid "Archives"
+msgstr "Archief"
+
+#: ../archive.php:30 ../search.php:19
+msgid " post/s found"
+msgstr "gevonden bericht(en)"
+
+#: ../archive.php:85 ../archive.php:111 ../archive.php:143 ../archive.php:172
+#: ../archive.php:206 ../archive.php:240 ../archive.php:270 ../index.php:72
+#: ../index.php:98 ../index.php:131 ../index.php:160 ../index.php:194
+#: ../index.php:228 ../index.php:258 ../search.php:73 ../search.php:99
+#: ../search.php:131 ../search.php:160 ../search.php:194 ../search.php:228
+#: ../search.php:258 ../includes/shortcodes.php:412
+#: ../includes/shortcodes.php:438 ../includes/shortcodes.php:470
+#: ../includes/shortcodes.php:499 ../includes/shortcodes.php:533
+#: ../includes/shortcodes.php:567 ../includes/shortcodes.php:597
+#: ../includes/wp-functions.php:300 ../includes/wp-functions.php:328
+#: ../includes/wp-functions.php:364 ../includes/wp-functions.php:396
+#: ../includes/wp-functions.php:433 ../includes/wp-functions.php:470
+#: ../includes/wp-functions.php:503
+msgid "<span>Sticky</span> - "
+msgstr "<span>Sticky</span> - "
+
+#: ../archive.php:92 ../archive.php:132 ../archive.php:157 ../archive.php:192
+#: ../archive.php:226 ../archive.php:255 ../archive.php:284 ../comments.php:66
+#: ../index.php:79 ../index.php:120 ../index.php:145 ../index.php:180
+#: ../index.php:214 ../index.php:243 ../index.php:272 ../search.php:80
+#: ../search.php:120 ../search.php:145 ../search.php:180 ../search.php:214
+#: ../search.php:243 ../search.php:272 ../includes/shortcodes.php:419
+#: ../includes/shortcodes.php:459 ../includes/shortcodes.php:484
+#: ../includes/shortcodes.php:519 ../includes/shortcodes.php:553
+#: ../includes/shortcodes.php:582 ../includes/shortcodes.php:611
+#: ../includes/wp-functions.php:307 ../includes/wp-functions.php:350
+#: ../includes/wp-functions.php:378 ../includes/wp-functions.php:416
+#: ../includes/wp-functions.php:453 ../includes/wp-functions.php:485
+#: ../includes/wp-functions.php:518
+msgid "Comment"
+msgstr "Opmerking"
+
+#: ../archive.php:92 ../archive.php:132 ../archive.php:157 ../archive.php:192
+#: ../archive.php:226 ../archive.php:255 ../archive.php:284 ../comments.php:22
+#: ../index.php:79 ../index.php:120 ../index.php:145 ../index.php:180
+#: ../index.php:214 ../index.php:243 ../index.php:272 ../search.php:80
+#: ../search.php:120 ../search.php:145 ../search.php:180 ../search.php:214
+#: ../search.php:243 ../search.php:272 ../includes/shortcodes.php:419
+#: ../includes/shortcodes.php:459 ../includes/shortcodes.php:484
+#: ../includes/shortcodes.php:519 ../includes/shortcodes.php:553
+#: ../includes/shortcodes.php:582 ../includes/shortcodes.php:611
+#: ../includes/wp-functions.php:307 ../includes/wp-functions.php:350
+#: ../includes/wp-functions.php:378 ../includes/wp-functions.php:416
+#: ../includes/wp-functions.php:453 ../includes/wp-functions.php:485
+#: ../includes/wp-functions.php:518
+msgid "Comments"
+msgstr "Opmerkingen"
+
+#: ../archive.php:95 ../archive.php:127 ../archive.php:150 ../archive.php:189
+#: ../archive.php:223 ../archive.php:249 ../archive.php:278 ../index.php:82
+#: ../index.php:115 ../index.php:138 ../index.php:177 ../index.php:211
+#: ../index.php:237 ../index.php:266 ../search.php:83 ../search.php:115
+#: ../search.php:138 ../search.php:177 ../search.php:211 ../search.php:237
+#: ../search.php:266 ../includes/shortcodes.php:422
+#: ../includes/shortcodes.php:454 ../includes/shortcodes.php:477
+#: ../includes/shortcodes.php:516 ../includes/shortcodes.php:550
+#: ../includes/shortcodes.php:576 ../includes/shortcodes.php:605
+#: ../includes/wp-functions.php:310 ../includes/wp-functions.php:345
+#: ../includes/wp-functions.php:371 ../includes/wp-functions.php:413
+#: ../includes/wp-functions.php:450 ../includes/wp-functions.php:479
+#: ../includes/wp-functions.php:512
+msgid "Comment on this post"
+msgstr "Maak een opmerking over dit bericht"
+
+#: ../archive.php:103 ../archive.php:135 ../archive.php:164 ../archive.php:198
+#: ../archive.php:232 ../archive.php:262 ../archive.php:291 ../index.php:90
+#: ../index.php:123 ../index.php:152 ../index.php:186 ../index.php:220
+#: ../index.php:250 ../index.php:279 ../search.php:91 ../search.php:123
+#: ../search.php:152 ../search.php:186 ../search.php:220 ../search.php:250
+#: ../search.php:279 ../includes/shortcodes.php:430
+#: ../includes/shortcodes.php:462 ../includes/shortcodes.php:491
+#: ../includes/shortcodes.php:525 ../includes/shortcodes.php:559
+#: ../includes/shortcodes.php:589 ../includes/shortcodes.php:618
+#: ../includes/wp-functions.php:318 ../includes/wp-functions.php:353
+#: ../includes/wp-functions.php:385 ../includes/wp-functions.php:422
+#: ../includes/wp-functions.php:459 ../includes/wp-functions.php:492
+#: ../includes/wp-functions.php:525
+msgid "View"
+msgstr "Bekijk"
+
+#: ../archive.php:103 ../archive.php:135 ../archive.php:164 ../archive.php:198
+#: ../archive.php:232 ../archive.php:262 ../archive.php:291 ../index.php:90
+#: ../index.php:123 ../index.php:152 ../index.php:186 ../index.php:220
+#: ../index.php:250 ../index.php:279 ../search.php:91 ../search.php:123
+#: ../search.php:152 ../search.php:186 ../search.php:220 ../search.php:250
+#: ../search.php:279 ../includes/shortcodes.php:274
+#: ../includes/shortcodes.php:283 ../includes/shortcodes.php:301
+#: ../includes/shortcodes.php:430 ../includes/shortcodes.php:462
+#: ../includes/shortcodes.php:491 ../includes/shortcodes.php:525
+#: ../includes/shortcodes.php:559 ../includes/shortcodes.php:589
+#: ../includes/shortcodes.php:618 ../includes/wp-functions.php:318
+#: ../includes/wp-functions.php:353 ../includes/wp-functions.php:385
+#: ../includes/wp-functions.php:422 ../includes/wp-functions.php:459
+#: ../includes/wp-functions.php:492 ../includes/wp-functions.php:525
+#: ../includes/wp-functions.php:611 ../includes/wp-functions.php:620
+#: ../includes/wp-functions.php:638 ../woocommerce/content-product.php:59
+msgid "Read More"
+msgstr "Lees meer"
+
+#: ../comments.php:14
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Dit bericht is beschermd met een paswoord. Voer uw paswoord in om de "
+"opmerkingen te kunnen lezen."
+
+#: ../comments.php:30
+msgid "&larr; Older Comments"
+msgstr "&larr; Oudere opmerkingen"
+
+#: ../comments.php:33
+msgid "Newer Comments &rarr;"
+msgstr "Recentere Opmerkingen &rarr;"
+
+#: ../comments.php:44
+msgid "Comments are closed."
+msgstr "Opmerkingen zijn gesloten"
+
+#: ../comments.php:55 ../includes/wp-functions.php:866
+msgid "Name"
+msgstr "Naam"
+
+#: ../comments.php:55
+msgid "Enter your name here"
+msgstr "Voer uw naam in"
+
+#: ../comments.php:58 ../includes/wp-functions.php:874
+msgid "Email"
+msgstr "Email"
+
+#: ../comments.php:58
+msgid "Enter your email here"
+msgstr "Voer uw email in"
+
+#: ../comments.php:61
+msgid "Web"
+msgstr "Web"
+
+#: ../comments.php:61
+msgid "Enter your website here"
+msgstr "Voer uw website in"
+
+#: ../comments.php:66 ../includes/wp-functions.php:843
+msgid "Send Us A Message Here"
+msgstr "Stuur ons een bericht"
+
+#: ../comments.php:66
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Laat een bericht achter aan %s"
+
+#: ../functions.php:96 ../header.php:56
+msgid "View your shopping cart"
+msgstr "Bekijk winkelwagen"
+
+#: ../header.php:59
+msgid "My Account"
+msgstr "Mijn Account"
+
+#: ../header.php:62
+msgid "Log in"
+msgstr "Log in"
+
+#: ../header.php:86 ../includes/wp-functions.php:701
+msgid "Home"
+msgstr "Home"
+
+#: ../index.php:17 ../includes/wp-functions.php:710
+#: ../includes/wp-functions.php:759
+msgid "Blog"
+msgstr "Blog"
+
+#: ../search.php:19
+msgid "Search results"
+msgstr "Zoekresultaten"
+
+#: ../search.php:291
+msgid ""
+"No posts were found for the searched critera. Search again or browse the "
+"latest archives."
+msgstr ""
+"Geen berichten gevonden, met uw zoekterm. Probeer een andere zoekterm of "
+"doorzoek het archief."
+
+#: ../search.php:293
+msgid "Posts"
+msgstr "Berichten"
+
+#: ../search.php:294 ../includes/wp-functions.php:748
+msgid "Products"
+msgstr "Producten"
+
+#: ../searchform.php:11 ../searchform.php:12 ../includes/wp-functions.php:742
+msgid "Search"
+msgstr "Zoek"
+
+#: ../single.php:31
+msgid "comments"
+msgstr "opmerkingen"
+
+#: ../single.php:31
+msgid "comment"
+msgstr "opmerking"
+
+#: ../single.php:50
+msgid "In Category : "
+msgstr "In categorie:"
+
+#: ../single.php:59
+msgid "About The Author"
+msgstr "Over de auteur"
+
+#: ../single.php:68
+msgid "Related Posts"
+msgstr "Gerelateerde berichten"
+
+#: ../admin/classes/class.options_machine.php:394
+msgid "Add New Link"
+msgstr "Voeg een nieuwe link toe"
+
+#: ../admin/classes/class.options_machine.php:525
+#: ../admin/classes/class.page_options_machine.php:506
+msgid "Last Backup : "
+msgstr "Laatste back-up:"
+
+#: ../admin/classes/class.options_machine.php:683
+#: ../admin/classes/class.page_options_machine.php:663
+msgid "Upload"
+msgstr "Upload"
+
+#: ../admin/classes/class.options_machine.php:912
+msgid "Team Member"
+msgstr "Teamlid"
+
+#: ../admin/classes/class.options_machine.php:971
+msgid "Add Network"
+msgstr "Voeg netwerk toe"
+
+#: ../admin/classes/class.page_options_machine.php:833
+msgid "Please set your contacts."
+msgstr "Voer uw contacten in."
+
+#: ../admin/front-end/options-page.php:16
+msgid "Page Control"
+msgstr "Paginabeheer"
+
+#: ../admin/front-end/options-products.php:16
+msgid "AllAround Products Evaluation"
+msgstr "Product waardering"
+
+#: ../admin/front-end/options.php:26
+msgid "Expand"
+msgstr "Vergroot"
+
+#: ../admin/front-end/options.php:30 ../admin/front-end/options.php:46
+msgid "Save All Changes"
+msgstr "Alle wijzigingen opslaan"
+
+#: ../admin/front-end/options.php:47
+msgid "Options Reset"
+msgstr "Reset opties"
+
+#: ../admin/functions/functions.mediauploader.php:20
+msgid "Options"
+msgstr "Opties"
+
+#: ../admin/functions/functions.mediauploader.php:210
+msgid "Gallery"
+msgstr "Gallerij"
+
+#: ../admin/functions/functions.mediauploader.php:210
+msgid "Previously Uploaded"
+msgstr "Eerder geupload"
+
+#: ../admin/functions/functions.options.php:78
+#: ../admin/functions/functions.options.php:85
+msgid "Basic Options"
+msgstr "Basis opties"
+
+#: ../admin/functions/functions.options.php:86
+msgid "Theme basic page options."
+msgstr "Basis thema pagina opties."
+
+#: ../admin/functions/functions.options.php:90
+msgid "Title"
+msgstr "Titel"
+
+#: ../admin/functions/functions.options.php:91
+msgid "Show post title"
+msgstr "Berichttitel tonen"
+
+#: ../admin/functions/functions.options.php:96
+msgid "Breadcrumbs"
+msgstr "Historie"
+
+#: ../admin/functions/functions.options.php:97
+msgid "Turn OFF Breadcrumbs"
+msgstr "Zet breadcrumbs uit"
+
+#: ../admin/functions/functions.options.php:102
+msgid "Custom Sidebar"
+msgstr "Custom Sidebar"
+
+#: ../admin/functions/functions.options.php:103
+msgid ""
+"Select custom right sidebar. You can define new sidebars in Theme Options > "
+"Sidebar."
+msgstr ""
+"Select custom right sidebar. You can define new sidebars in Theme Options > "
+"Sidebar."
+
+#: ../admin/functions/functions.options.php:110
+msgid "Slider Options"
+msgstr "Slider Options"
+
+#: ../admin/functions/functions.options.php:117
+msgid "Insert Slider"
+msgstr "Insert Slider"
+
+#: ../admin/functions/functions.options.php:118
+msgid "Activate slider. Set up slides and slider parametars."
+msgstr "Activate slider. Set up slides and slider parametars."
+
+#: ../admin/functions/functions.options.php:122
+msgid "Slider ON/OFF"
+msgstr "Slider ON/OFF"
+
+#: ../admin/functions/functions.options.php:123
+msgid "Enable slider on this page."
+msgstr "Enable slider on this page."
+
+#: ../admin/functions/functions.options.php:129
+msgid "Slider Type"
+msgstr "Slider Type"
+
+#: ../admin/functions/functions.options.php:130
+msgid "Select slider type."
+msgstr "Select slider type."
+
+#: ../admin/functions/functions.options.php:140
+msgid "Configure selected slider"
+msgstr "Configure selected slider"
+
+#: ../admin/functions/functions.options.php:141
+msgid ""
+"If you've selected Revolution slider please select your saved Revolution "
+"slider template. If you've selected other slide systems please use Slide "
+"Manager bellow to configure your slides."
+msgstr ""
+"If you've selected Revolution slider please select your saved Revolution "
+"slider template. If you've selected other slide systems please use Slide "
+"Manager bellow to configure your slides."
+
+#: ../admin/functions/functions.options.php:148
+msgid "Revolution Slider"
+msgstr "Revolution Slider"
+
+#: ../admin/functions/functions.options.php:149
+msgid "Select saved revolution slider template."
+msgstr "Select saved revolution slider template."
+
+#: ../admin/functions/functions.options.php:160
+msgid "Slider Manager"
+msgstr "Slider Manager"
+
+#: ../admin/functions/functions.options.php:161
+msgid ""
+"Use this drag&drop manager to create your slides. For more information on "
+"sliders view our AllAround documentation."
+msgstr ""
+"Use this drag&drop manager to create your slides. For more information on "
+"sliders view our AllAround documentation."
+
+#: ../admin/functions/functions.options.php:167
+msgid "Slides"
+msgstr "Slides"
+
+#: ../admin/functions/functions.options.php:168
+msgid "Add or remove slides. Drag and drop to change slide order."
+msgstr "Add or remove slides. Drag and drop to change slide order."
+
+#: ../admin/functions/functions.options.php:178
+#: ../admin/functions/functions.options.php:185
+msgid "Shortcode Generator"
+msgstr "Shortcode Generator"
+
+#: ../admin/functions/functions.options.php:186
+msgid ""
+"Use Shortcode Generator to create your page layouts. Templates can be "
+"inserted, loaded, saved or edited. Use Add New Element to add elements to "
+"template. Drag and drop elements to change their order. This Shortcode "
+"Generator supports only AllAround shortcodes. Shortcodes for plugins as "
+"WooCommerce or Revolution slider can be put inside Text/HTML element for "
+"saving template purposes.<p>Please note that Full-Width Shortcodes are "
+"working only on full width pages when sidebars are not used.</p>"
+msgstr ""
+"Use Shortcode Generator to create your page layouts. Templates can be "
+"inserted, loaded, saved or edited. Use Add New Element to add elements to "
+"template. Drag and drop elements to change their order. This Shortcode "
+"Generator supports only AllAround shortcodes. Shortcodes for plugins as "
+"WooCommerce or Revolution slider can be put inside Text/HTML element for "
+"saving template purposes.<p>Please note that Full-Width Shortcodes are "
+"working only on full width pages when sidebars are not used.</p>"
+
+#: ../admin/functions/functions.options.php:191
+msgid "Insert Elements"
+msgstr "Insert Elements"
+
+#: ../admin/functions/functions.options.php:204
+msgid "Customer Evaluation"
+msgstr "Customer Evaluation"
+
+#: ../admin/functions/functions.options.php:205
+msgid "Setup your Customer Evaluation options."
+msgstr "Setup your Customer Evaluation options."
+
+#: ../admin/functions/functions.options.php:209
+msgid "Product line"
+msgstr "Product line"
+
+#: ../admin/functions/functions.options.php:210
+msgid "The line just below CUSTOMER EVALUTION title."
+msgstr "The line just below CUSTOMER EVALUTION title."
+
+#: ../admin/functions/functions.options.php:215
+msgid "Bar #1 Title"
+msgstr "Bar #1 Title"
+
+#: ../admin/functions/functions.options.php:216
+msgid "Title for Bar #1."
+msgstr "Title for Bar #1."
+
+#: ../admin/functions/functions.options.php:221
+msgid "Bar #1 Progress"
+msgstr "Bar #1 Progress"
+
+#: ../admin/functions/functions.options.php:222
+msgid "Progress for Bar #1."
+msgstr "Progress for Bar #1."
+
+#: ../admin/functions/functions.options.php:230
+msgid "Bar #2 Title"
+msgstr "Bar #2 Title"
+
+#: ../admin/functions/functions.options.php:231
+msgid "Title for Bar #2."
+msgstr "Title for Bar #2."
+
+#: ../admin/functions/functions.options.php:236
+msgid "Bar #2 Progress"
+msgstr "Bar #2 Progress"
+
+#: ../admin/functions/functions.options.php:237
+msgid "Progress for Bar #2."
+msgstr "Progress for Bar #2."
+
+#: ../admin/functions/functions.options.php:245
+msgid "Bar #3 Title"
+msgstr "Bar #3 Title"
+
+#: ../admin/functions/functions.options.php:246
+msgid "Title for Bar #3."
+msgstr "Title for Bar #3."
+
+#: ../admin/functions/functions.options.php:251
+msgid "Bar #3 Progress"
+msgstr "Bar #3 Progress"
+
+#: ../admin/functions/functions.options.php:252
+msgid "Progress for Bar #3."
+msgstr "Progress for Bar #3."
+
+#: ../admin/functions/functions.options.php:260
+msgid "Bar #4 Title"
+msgstr "Bar #4 Title"
+
+#: ../admin/functions/functions.options.php:261
+msgid "Title for Bar #4."
+msgstr "Title for Bar #4."
+
+#: ../admin/functions/functions.options.php:266
+msgid "Bar #4 Progress"
+msgstr "Bar #4 Progress"
+
+#: ../admin/functions/functions.options.php:267
+msgid "Progress for Bar #4."
+msgstr "Progress for Bar #4."
+
+#: ../admin/functions/functions.options.php:279
+#: ../admin/functions/functions.options.php:282
+msgid "General Settings"
+msgstr "General Settings"
+
+#: ../admin/functions/functions.options.php:285
+msgid "Welcome to the Theme Options"
+msgstr "Welcome to the Theme Options"
+
+#: ../admin/functions/functions.options.php:286
+msgid "Use this Theme Options page to setup your site."
+msgstr "Use this Theme Options page to setup your site."
+
+#: ../admin/functions/functions.options.php:290
+msgid "Theme Color"
+msgstr "Theme Color"
+
+#: ../admin/functions/functions.options.php:291
+msgid "Select Theme Color. Default lime green color code is #e84c3d."
+msgstr "Select Theme Color. Default lime green color code is #e84c3d."
+
+#: ../admin/functions/functions.options.php:296
+msgid "Upload Logo"
+msgstr "Upload Logo"
+
+#: ../admin/functions/functions.options.php:297
+msgid ""
+"Upload your logo using the native media uploader, or define the URL directly."
+msgstr ""
+"Upload your logo using the native media uploader, or define the URL directly."
+
+#: ../admin/functions/functions.options.php:302
+msgid "Upload Small Logo"
+msgstr "Upload Small Logo"
+
+#: ../admin/functions/functions.options.php:303
+msgid ""
+"Upload your small logo using the native media uploader, or define the URL "
+"directly."
+msgstr ""
+"Upload your small logo using the native media uploader, or define the URL "
+"directly."
+
+#: ../admin/functions/functions.options.php:309
+#: ../admin/functions/functions.options.php:312
+#: ../admin/functions/functions.options.php:315
+msgid "Blog Settings"
+msgstr "Blog Settings"
+
+#: ../admin/functions/functions.options.php:316
+msgid "Setup blog archive pages default type."
+msgstr "Setup blog archive pages default type."
+
+#: ../admin/functions/functions.options.php:320
+msgid "Blog Type"
+msgstr "Blog Type"
+
+#: ../admin/functions/functions.options.php:321
+msgid ""
+"Select your default blog type.<br/> 1 - Blog Regular<br/> 2 - Blog "
+"Circles<br/> 3 - Blog Circles Two Columns<br/> 4 - Blog Circles Three "
+"Columns<br/> 5 - Blog Small Circles<br/> 6 - Blog Small Circles Two "
+"Columns<br/> 7 - Blog Small Circles Three Columns"
+msgstr ""
+"Select your default blog type.<br/> 1 - Blog Regular<br/> 2 - Blog "
+"Circles<br/> 3 - Blog Circles Two Columns<br/> 4 - Blog Circles Three "
+"Columns<br/> 5 - Blog Small Circles<br/> 6 - Blog Small Circles Two "
+"Columns<br/> 7 - Blog Small Circles Three Columns"
+
+#: ../admin/functions/functions.options.php:335
+#: ../admin/functions/functions.options.php:338
+msgid "Single Post Settings"
+msgstr "Single Post Settings"
+
+#: ../admin/functions/functions.options.php:339
+msgid "Single Post display options."
+msgstr "Single Post display options."
+
+#: ../admin/functions/functions.options.php:343
+msgid "Enable Excerpt"
+msgstr "Enable Excerpt"
+
+#: ../admin/functions/functions.options.php:344
+msgid ""
+"Enable excerpts on single posts that appear just bellow the featured image."
+msgstr ""
+"Enable excerpts on single posts that appear just bellow the featured image."
+
+#: ../admin/functions/functions.options.php:349
+msgid "Enable Related"
+msgstr "Enable Related"
+
+#: ../admin/functions/functions.options.php:350
+msgid "Enable related posts on single posts that appear before comments."
+msgstr "Enable related posts on single posts that appear before comments."
+
+#: ../admin/functions/functions.options.php:355
+msgid "Enable Author"
+msgstr "Enable Author"
+
+#: ../admin/functions/functions.options.php:356
+msgid "Enable author information on single posts that appear at the bottom."
+msgstr "Enable author information on single posts that appear at the bottom."
+
+#: ../admin/functions/functions.options.php:362
+msgid "Header Socials"
+msgstr "Header Socials"
+
+#: ../admin/functions/functions.options.php:365
+msgid "Disable Cart/Login"
+msgstr "Disable Cart/Login"
+
+#: ../admin/functions/functions.options.php:366
+msgid ""
+"Disable Cart and Login icons in the header. This option is usefull if you "
+"are usign AllAround theme only to showcase your products."
+msgstr ""
+"Disable Cart and Login icons in the header. This option is usefull if you "
+"are usign AllAround theme only to showcase your products."
+
+#: ../admin/functions/functions.options.php:371
+#: ../admin/functions/functions.options.php:374
+msgid "Header Settings"
+msgstr "Header Settings"
+
+#: ../admin/functions/functions.options.php:375
+msgid "Set your header social network urls."
+msgstr "Set your header social network urls."
+
+#: ../admin/functions/functions.options.php:379
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: ../admin/functions/functions.options.php:380
+msgid "Enter your Facebook URL e.g. http://www.facebook.com/user/"
+msgstr "Enter your Facebook URL e.g. http://www.facebook.com/user/"
+
+#: ../admin/functions/functions.options.php:385
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: ../admin/functions/functions.options.php:386
+msgid "Enter your Twitter URL e.g. http://www.twitter.com/user/"
+msgstr "Enter your Twitter URL e.g. http://www.twitter.com/user/"
+
+#: ../admin/functions/functions.options.php:391
+msgid "Digg URL"
+msgstr "Digg URL"
+
+#: ../admin/functions/functions.options.php:392
+msgid "Enter your Digg URL e.g. http://www.digg.com/user/"
+msgstr "Enter your Digg URL e.g. http://www.digg.com/user/"
+
+#: ../admin/functions/functions.options.php:397
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: ../admin/functions/functions.options.php:398
+msgid "Enter your LinkedIn URL e.g. http://www.linkedin.com/user/"
+msgstr "Enter your LinkedIn URL e.g. http://www.linkedin.com/user/"
+
+#: ../admin/functions/functions.options.php:403
+msgid "RSS Feed URL"
+msgstr "RSS Feed URL"
+
+#: ../admin/functions/functions.options.php:404
+msgid "Enter your RSS Feed URL e.g. http://www.yoursite.com/rss/"
+msgstr "Enter your RSS Feed URL e.g. http://www.yoursite.com/rss/"
+
+#: ../admin/functions/functions.options.php:409
+msgid "Google+ URL"
+msgstr "Google+ URL"
+
+#: ../admin/functions/functions.options.php:410
+msgid "Enter your Google+ URL e.g. http://www.googleplus.com/user/"
+msgstr "Enter your Google+ URL e.g. http://www.googleplus.com/user/"
+
+#: ../admin/functions/functions.options.php:416
+#: ../admin/functions/functions.options.php:420
+#: ../admin/functions/functions.options.php:423
+msgid "Sidebar Settings"
+msgstr "Sidebar Settings"
+
+#: ../admin/functions/functions.options.php:424
+msgid ""
+"Setup default post/product archive sidebar. Create custom sidebars to use on "
+"pages."
+msgstr ""
+"Setup default post/product archive sidebar. Create custom sidebars to use on "
+"pages."
+
+#: ../admin/functions/functions.options.php:429
+#: ../includes/wp-functions.php:94
+msgid "Blog Archive Sidebar"
+msgstr "Blog Archive Sidebar"
+
+#: ../admin/functions/functions.options.php:430
+msgid "Enable blog archive sidebar."
+msgstr "Enable blog archive sidebar."
+
+#: ../admin/functions/functions.options.php:435
+msgid "Woocommerce Archive Sidebar"
+msgstr "Woocommerce Archive Sidebar"
+
+#: ../admin/functions/functions.options.php:436
+msgid "Enable WooCommerce archive sidebar including the \"Shop\" page."
+msgstr "Enable WooCommerce archive sidebar including the \"Shop\" page."
+
+#: ../admin/functions/functions.options.php:441
+msgid "Sidebars"
+msgstr "Sidebars"
+
+#: ../admin/functions/functions.options.php:442
+msgid "Unlimited sidebars for your pages/posts."
+msgstr "Unlimited sidebars for your pages/posts."
+
+#: ../admin/functions/functions.options.php:452
+#: ../admin/functions/functions.options.php:455
+#: ../admin/functions/functions.options.php:458
+msgid "Footer Settings"
+msgstr "Footer Settings"
+
+#: ../admin/functions/functions.options.php:459
+msgid "Choose footer columns. Set up the copyright text."
+msgstr "Choose footer columns. Set up the copyright text."
+
+#: ../admin/functions/functions.options.php:463
+msgid "Footer widget areas"
+msgstr "Footer widget areas"
+
+#: ../admin/functions/functions.options.php:464
+msgid "Select number of footer widget areas."
+msgstr "Select number of footer widget areas."
+
+#: ../admin/functions/functions.options.php:475
+msgid "Footer links"
+msgstr "Footer links"
+
+#: ../admin/functions/functions.options.php:476
+msgid "Set small slider images and links. Please use icons 60x60px."
+msgstr "Set small slider images and links. Please use icons 60x60px."
+
+#: ../admin/functions/functions.options.php:488
+msgid "Copyright text"
+msgstr "Copyright text"
+
+#: ../admin/functions/functions.options.php:489
+msgid "Input text to be displayed after footer."
+msgstr "Input text to be displayed after footer."
+
+#: ../admin/functions/functions.options.php:494
+msgid "Footer Twitter ON/OFF"
+msgstr "Footer Twitter ON/OFF"
+
+#: ../admin/functions/functions.options.php:495
+msgid "Switch ON or OFF the Top Area."
+msgstr "Switch ON or OFF the Top Area."
+
+#: ../admin/functions/functions.options.php:501
+msgid "Username"
+msgstr "Username"
+
+#: ../admin/functions/functions.options.php:502
+msgid "Please enter Twitter username. e.g. themeforest"
+msgstr "Please enter Twitter username. e.g. themeforest"
+
+#: ../admin/functions/functions.options.php:508
+msgid "Typography"
+msgstr "Typography"
+
+#: ../admin/functions/functions.options.php:515
+msgid "Set your typography options."
+msgstr "Set your typography options."
+
+#: ../admin/functions/functions.options.php:516
+msgid ""
+"In this theme you can set your custom fonts. Choose your font for text and "
+"headers."
+msgstr ""
+"In this theme you can set your custom fonts. Choose your font for text and "
+"headers."
+
+#: ../admin/functions/functions.options.php:520
+msgid "Select main text font"
+msgstr "Select main text font"
+
+#: ../admin/functions/functions.options.php:521
+msgid "Selected main font is used for text on pages and posts."
+msgstr "Selected main font is used for text on pages and posts."
+
+#: ../admin/functions/functions.options.php:531
+msgid "Select cursive font"
+msgstr "Select cursive font"
+
+#: ../admin/functions/functions.options.php:532
+msgid "Selected cursive font is used for italic text, quotes etc."
+msgstr "Selected cursive font is used for italic text, quotes etc."
+
+#: ../admin/functions/functions.options.php:542
+#: ../admin/functions/functions.options.php:546
+#: ../admin/functions/functions.options.php:549
+msgid "Contact Settings"
+msgstr "Contact Settings"
+
+#: ../admin/functions/functions.options.php:550
+msgid "Setup your team members."
+msgstr "Setup your team members."
+
+#: ../admin/functions/functions.options.php:554
+msgid "Contact Settings / Team Members"
+msgstr "Contact Settings / Team Members"
+
+#: ../admin/functions/functions.options.php:555
+msgid ""
+"Add or remove contact options/team members. You can use this entries later "
+"in your content as Team element or Contact Form element."
+msgstr ""
+"Add or remove contact options/team members. You can use this entries later "
+"in your content as Team element or Contact Form element."
+
+#: ../admin/functions/functions.options.php:576
+#: ../admin/functions/functions.options.php:580
+#: ../admin/functions/functions.options.php:583
+msgid "Advanced Settings"
+msgstr "Advanced Settings"
+
+#: ../admin/functions/functions.options.php:584
+msgid "Set custom CSS classes, Google Analytics code."
+msgstr "Set custom CSS classes, Google Analytics code."
+
+#: ../admin/functions/functions.options.php:588
+msgid "Responsive / Fixed Layout"
+msgstr "Responsive / Fixed Layout"
+
+#: ../admin/functions/functions.options.php:589
+msgid "Enable Responsive layout or use Fixed layout insted."
+msgstr "Enable Responsive layout or use Fixed layout insted."
+
+#: ../admin/functions/functions.options.php:597
+msgid "Boxed / Wide Layout"
+msgstr "Boxed / Wide Layout"
+
+#: ../admin/functions/functions.options.php:598
+msgid "Enable Boxed layout or use Wide layout insted."
+msgstr "Enable Boxed layout or use Wide layout insted."
+
+#: ../admin/functions/functions.options.php:605
+msgid "Product Evaluation ON/OFF"
+msgstr "Product Evaluation ON/OFF"
+
+#: ../admin/functions/functions.options.php:606
+msgid "Enable Product Evaluation on Single Products."
+msgstr "Enable Product Evaluation on Single Products."
+
+#: ../admin/functions/functions.options.php:611
+msgid "Tracking Code"
+msgstr "Tracking Code"
+
+#: ../admin/functions/functions.options.php:612
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the header of your site."
+msgstr ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the header of your site."
+
+#: ../admin/functions/functions.options.php:617
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: ../admin/functions/functions.options.php:618
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr "Quickly add some CSS to your theme by adding it to this block."
+
+#: ../admin/functions/functions.options.php:623
+msgid "Backup Options"
+msgstr "Backup Options"
+
+#: ../admin/functions/functions.options.php:627
+msgid "Backup and Restore Options"
+msgstr "Backup and Restore Options"
+
+#: ../admin/functions/functions.options.php:631
+msgid ""
+"You can use the two buttons below to backup your current options, and then "
+"restore it back at a later time. This is useful if you want to experiment on "
+"the options but would like to keep the old settings in case you need it back."
+msgstr ""
+"You can use the two buttons below to backup your current options, and then "
+"restore it back at a later time. This is useful if you want to experiment on "
+"the options but would like to keep the old settings in case you need it back."
+
+#: ../admin/functions/functions.options.php:634
+msgid "Transfer Theme Options Data"
+msgstr "Transfer Theme Options Data"
+
+#: ../admin/functions/functions.options.php:638
+msgid ""
+"You can tranfer the saved options data between different installs by copying "
+"the text inside the text box. To import data from another install, replace "
+"the data in the text box with the one from another install and click "
+"\"Import Options\"."
+msgstr ""
+"You can tranfer the saved options data between different installs by copying "
+"the text inside the text box. To import data from another install, replace "
+"the data in the text box with the one from another install and click "
+"\"Import Options\"."
+
+#: ../includes/post-metabox.php:23
+msgid "Page settings"
+msgstr "Pagina instellingen"
+
+#: ../includes/post-metabox.php:24
+msgid "Products settings"
+msgstr "Product instellingen"
+
+#: ../includes/shortcodes.php:266 ../includes/wp-functions.php:603
+msgid "Select options"
+msgstr "Selecteer opties"
+
+#: ../includes/shortcodes.php:270 ../includes/wp-functions.php:607
+msgid "View options"
+msgstr "Bekijk opties"
+
+#: ../includes/shortcodes.php:279 ../includes/wp-functions.php:616
+msgid "Add to cart"
+msgstr "Voeg toe aan winkelwagen"
+
+#: ../includes/shortcodes.php:304 ../includes/wp-functions.php:555
+msgid "Related Products"
+msgstr "Gerelateerde Producten"
+
+#: ../includes/shortcodes.php:304 ../includes/wp-functions.php:555
+msgid "Check out these related products."
+msgstr "Bekijk deze gerelateerde producten."
+
+#: ../includes/shortcodes.php:304 ../includes/wp-functions.php:558
+msgid "Interesting Products"
+msgstr "Interessante Producten"
+
+#: ../includes/shortcodes.php:304 ../includes/wp-functions.php:558
+msgid "You might also like this products."
+msgstr "Misschien is dit ook wat."
+
+#: ../includes/shortcodes.php:304 ../includes/wp-functions.php:566
+msgid "All Products"
+msgstr "Alle producten"
+
+#: ../includes/shortcodes.php:304 ../includes/wp-functions.php:566
+msgid "All Products are listed."
+msgstr "Alle producten zijn opgesomt"
+
+#: ../includes/shortcodes.php:733
+msgid "BUY NOW"
+msgstr "BESTEL NU"
+
+#: ../includes/wp-functions.php:23
+msgid "Featured image"
+msgstr "Featured image"
+
+#: ../includes/wp-functions.php:38
+msgid "AllAround Theme Options"
+msgstr "AllAround Theme Options"
+
+#: ../includes/wp-functions.php:71
+msgid "Primary Navigation"
+msgstr "Primary Navigation"
+
+#: ../includes/wp-functions.php:84
+msgid "Footer"
+msgstr "Footer"
+
+#: ../includes/wp-functions.php:104
+msgid "Woocommerce Sidebar"
+msgstr "Woocommerce sidebar"
+
+#: ../includes/wp-functions.php:229
+msgid "View newer posts"
+msgstr "Bekijk nieuwere berichten"
+
+#: ../includes/wp-functions.php:232
+msgid "View page number"
+msgstr "Bekijk pagina nummer"
+
+#: ../includes/wp-functions.php:242
+msgid "View earlier posts"
+msgstr "Bekijk oudere berichten"
+
+#: ../includes/wp-functions.php:706
+msgid "You are here"
+msgstr "U bent hier"
+
+#: ../includes/wp-functions.php:711
+msgid "Portfolio"
+msgstr "Portofolio"
+
+#: ../includes/wp-functions.php:745
+msgid "404 Page"
+msgstr "404 Pagina"
+
+#: ../includes/wp-functions.php:767
+msgid "year"
+msgstr "jaar"
+
+#: ../includes/wp-functions.php:767
+msgid "years"
+msgstr "jaren"
+
+#: ../includes/wp-functions.php:768
+msgid "month"
+msgstr "maand"
+
+#: ../includes/wp-functions.php:768
+msgid "months"
+msgstr "maanden"
+
+#: ../includes/wp-functions.php:769
+msgid "week"
+msgstr "week"
+
+#: ../includes/wp-functions.php:769
+msgid "weeks"
+msgstr "weken"
+
+#: ../includes/wp-functions.php:770
+msgid "day"
+msgstr "dag"
+
+#: ../includes/wp-functions.php:770
+msgid "days"
+msgstr "dagen"
+
+#: ../includes/wp-functions.php:771
+msgid "hour"
+msgstr "uur"
+
+#: ../includes/wp-functions.php:771
+msgid "hours"
+msgstr "uren"
+
+#: ../includes/wp-functions.php:772
+msgid "minute"
+msgstr "minuut"
+
+#: ../includes/wp-functions.php:772
+msgid "minutes"
+msgstr "minuten"
+
+#: ../includes/wp-functions.php:773
+msgid "second"
+msgstr "seconde"
+
+#: ../includes/wp-functions.php:773 ../includes/wp-functions.php:792
+msgid "seconds"
+msgstr "seconden"
+
+#: ../includes/wp-functions.php:784
+msgid "sometime"
+msgstr "soms"
+
+#: ../includes/wp-functions.php:794
+msgid " ago</span>"
+msgstr " geleden</span>"
+
+#: ../includes/wp-functions.php:806
+msgid "Please enter your name"
+msgstr "Voer uw naam in"
+
+#: ../includes/wp-functions.php:812
+msgid "Please enter your email address"
+msgstr "Voer uw emailadres in"
+
+#: ../includes/wp-functions.php:815
+msgid "You entered an invalid email address"
+msgstr "U heeft een ongeldig emailadres ingevoerd"
+
+#: ../includes/wp-functions.php:821
+msgid "Please enter a message"
+msgstr "Voer een bericht in"
+
+#: ../includes/wp-functions.php:845
+msgid "Thanks, your email was sent successfully!"
+msgstr "Dank u, uw email is verstuurd!"
+
+#: ../includes/wp-functions.php:849
+msgid "Sorry, an error occured"
+msgstr "Sorry, er is een error opgetreden"
+
+#: ../includes/wp-functions.php:854
+msgid "Send To"
+msgstr "Verstuur naar"
+
+#: ../includes/wp-functions.php:868
+msgid "Enter your name..."
+msgstr "Vul uw naam in"
+
+#: ../includes/wp-functions.php:876
+msgid "Enter your e-mail..."
+msgstr "Vul uw email in"
+
+#: ../includes/wp-functions.php:882
+msgid "Message"
+msgstr "Bericht"
+
+#: ../includes/wp-functions.php:890
+msgid "Send Email"
+msgstr "Stuur mail"
+
+#: ../includes/wp-functions.php:1122
+msgid "Joined"
+msgstr "Toegevoegd"
+
+#: ../includes/wp-functions.php:1126
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: ../includes/wp-functions.php:1127
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: ../includes/wp-functions.php:1135
+msgid "Your comment is awaiting moderation."
+msgstr "Uw opmerking word momenteel gecheckt"
+
+#: ../includes/wp-functions.php:1141
+msgid "Edit &rarr;"
+msgstr "Wijzig &rarr;"
+
+#: ../includes/wp-functions.php:1153 ../includes/wp-functions.php:1164
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: ../includes/wp-functions.php:1155 ../includes/wp-functions.php:1166
+msgid "(Edit)"
+msgstr "(Wijzig)"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:164
+msgid "Install Required Plugins"
+msgstr "Installeer verplichte plugins"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:165
+msgid "Install Plugins"
+msgstr "Installeer plugin"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:166
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Plugin installeren:  %s"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr "Er is een fout opgetreden"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:178
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:490
+msgid "Return to Required Plugins Installer"
+msgstr "Terug naar de verplichte plugins installer"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:179
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1846
+msgid "Plugin activated successfully."
+msgstr "Plugin succesvol geactiveerd."
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "All plugins installed and activated successfully. %1$s"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:517
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr "Return to the Dashboard"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr "The following plugin was activated successfully: %s."
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr "Dismiss this notice"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr "External Link"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr "Private Repository"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr "Recommended"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr "Verplicht"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr "Aanbevolen"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr "Not Installed"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr "Installed But Not Activated"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr "Plugin"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr "Source"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr "Type"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr "Status"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr "Install"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr "Activate"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr "Install package not available."
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr "Unpacking the package&#8230;"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr "Installing the plugin&#8230;"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr "Plugin install failed."
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr "Plugin installed successfully."
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr "Plugin activation failed."
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installed and activated successfully."
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr "Toon Details"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr "Verberg details"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr "All installations and activations have been completed."
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "An error occurred while installing %1$s: <strong>%2$s</strong>."
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "The installation of %1$s failed."
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s installed successfully."
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr "All installaties have been completer."
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing Plugin %1$s (%2$d/%3$d)"
+
+#: ../woocommerce/content-single-product.php:43
+msgid "ORDER NOW"
+msgstr "BESTEL NU"
+
+#: ../woocommerce/content-single-product.php:71
+msgid "CUSTOMER EVALUATION"
+msgstr "Consument beoordeling"
+
+#: ../woocommerce/cart/cart-totals.php:14
+msgid "Cart Totals"
+msgstr "Totaal winkelwagen"
+
+#: ../woocommerce/cart/cart-totals.php:19
+msgid "Cart Subtotal"
+msgstr "Subtotaal winkelwagen"
+
+#: ../woocommerce/cart/cart-totals.php:73
+msgid "Order Total"
+msgstr "Totaal bestelling"
+
+#: ../woocommerce/cart/cart-totals.php:85
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr " (belangting inschatting voor %s)"
+
+#: ../woocommerce/cart/cart-totals.php:88
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+"Let op: Verzendkosten and belastingen %s worden ge-update gedurende de "
+"checkout van uw betalingen en verzendgegevens."
+
+#: ../woocommerce/cart/cross-sells.php:33
+msgid "Related offer"
+msgstr "Gerelateerde aanbieding"
+
+#: ../woocommerce/cart/shipping-calculator.php:20
+msgid "Calculate Shipping"
+msgstr "Bereken verzendskosten"
+
+#: ../woocommerce/cart/shipping-calculator.php:26
+msgid "Select a country&hellip;"
+msgstr "Selecteer een land"
+
+#: ../woocommerce/cart/shipping-calculator.php:43
+#: ../woocommerce/cart/shipping-calculator.php:49
+#: ../woocommerce/cart/shipping-calculator.php:61
+msgid "State / county"
+msgstr "Provincie / land"
+
+#: ../woocommerce/cart/shipping-calculator.php:50
+msgid "Select a state&hellip;"
+msgstr "Selecteer provinvie"
+
+#: ../woocommerce/cart/shipping-calculator.php:70
+msgid "City"
+msgstr "Stad"
+
+#: ../woocommerce/cart/shipping-calculator.php:78
+msgid "Postcode / Zip"
+msgstr "Postcode"
+
+#: ../woocommerce/cart/shipping-calculator.php:83
+msgid "Update Totals"
+msgstr "Update Totaalprijs"
