@@ -39,6 +39,17 @@
 	@media (max-width:980px){
 	.responsive_menu{ display: none !important; }
 	}
+
+	.single-category, blockquote p>span , .real_content p,.real_content p em, .real_content ul li span, .real_content ul li, span.blog_post_text, .comment-notes span, .widget_recent_entries li a, .textwidget span>span{ 
+		font-family: sans-serif !important;
+		font-weight: 200;
+		font-size: 16px;
+		line-height: 25px;
+	}
+	.real_content p strong{ 
+		font-family: Convergence;
+	}
+
 </style>
 </head>
 <body <?php echo body_class($body_class); ?>>

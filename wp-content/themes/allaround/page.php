@@ -14,7 +14,8 @@
 	<?php if ( $allaround_postmeta['breadcrumbs'] == '' or $allaround_postmeta['breadcrumbs'] == 1 ) allaround_breadcrumbs(); ?>
 	<div class="content_wrapper <?php echo $allaround_sidebar['sidebarclass']; ?>">
 		<div class="content">
-		<?php include('home-circles.php') ?>
+			<?php include('_homepage_headliner.php') ?>
+			<?php include('home-circles.php') ?>
 			<?php
 				if ( $allaround_postmeta['title'] == 1 ) echo do_shortcode('[aa_title themecolor="yes"]' . get_the_title() . '[/aa_title]'); else echo '<div class="clear margin-top48"></div>';
 				if( have_posts() ) { 
