@@ -85,12 +85,19 @@ if(is_front_page()):
 	$postTitle = $post->post_title;
 	$postContent = $post ->post_content;
 	$postLink = simple_fields_value('homepage_circle_link', $postId);
-	$postImage = get_the_post_thumbnail_url($post)
+	$postImage = get_the_post_thumbnail_url($post);
+	//prep image size
+	$filename_from_url = parse_url($postImage);
+	$ext = pathinfo($filename_from_url['path'], PATHINFO_EXTENSION);
+	$dir = pathinfo($postImage, PATHINFO_DIRNAME);
+	$file = pathinfo($postImage, PATHINFO_FILENAME);
+	$image_resize = (strpos($postImage, "-148x148") !== false)? "" : "-148x148" ;
+	$filename = $dir."/".$file.$image_resize.".".$ext;
 ?>
     <div class="column-1-4 column" style="text-align:center; margin-right:0px;" >
     <a href="<?php echo $postLink; ?>">
       <div class="image_wrapper" style="cursor:pointer;">
-         <img width="148" height="148" src="<?php echo $postImage; ?>" class="content_image wp-post-image" alt="<?php echo $postTitle; ?>" srcset="<?php echo $postImage; ?> 148w" sizes="(max-width: 148px) 100vw, 148px">
+         <img width="148" height="148" src="<?php echo $filename; ?>" class="content_image wp-post-image" alt="<?php echo $postTitle; ?>" srcset="<?php echo $filename; ?> 148w" sizes="(max-width: 148px) 100vw, 148px">
       </div>
       <div class="">
          <h3 ><?php echo $postTitle; ?></h3>
